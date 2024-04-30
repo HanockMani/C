@@ -1,2 +1,2 @@
 # C
-Some basic C programs.
+Some basic programs coded in C language.
